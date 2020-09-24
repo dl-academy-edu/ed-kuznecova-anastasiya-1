@@ -2,4 +2,3 @@
 * Студент [Кузнецова Анастасия](http://t.me/kukuznetsova10)
 * Наставник [Дорош Егор](http://t.me/doroshegor)
 
-
